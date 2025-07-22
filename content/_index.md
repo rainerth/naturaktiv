@@ -1,53 +1,28 @@
 ---
 title: "NaturAktiv Bösingen e.V."
-subtitle: "Natur erleben - Umwelt schützen"
+subtitle: "Gemeinsam Wandern und Natur erleben"
 date: 2025-01-22
 draft: false
 header_image: "img/naturaktiv-hero.jpg"
-description: "Offiziell eingetragener Verein für Naturschutz, Umweltbildung und nachhaltiges Leben in Bösingen"
-tags: ["Naturschutz", "Umweltbildung", "Nachhaltigkeit", "Bösingen"]
+description: "Eingetragener Wanderverein"
+tags: ["Wandern", "Naturschutz", "Bösingen"]
 ---
 
 # Willkommen bei NaturAktiv Bösingen e.V.
 
-**Wir sind ein offiziell eingetragener Verein!**
 
-NaturAktiv Bösingen e.V. ist seit dem 08. Mai 2025 offiziell im Vereinsregister des Amtsgerichts Stuttgart eingetragen (VR 727115). Unser Verein widmet sich dem Naturschutz, der Umweltbildung und der Förderung nachhaltigen Lebens in unserer Gemeinde Bösingen.
+Liebe Wanderfreunde,
 
-## Unsere Vision
+für das Jahr 2025 haben wir wieder ein abwechslungsreiches Programm aus Ganztages-, Halbtages-, Familien-, Berg- und E-Bike-Touren zusammengestellt und freuen uns auf eine rege Beteiligung.
 
-Wir möchten:
-- **Die Natur schützen** und erhalten für kommende Generationen
-- **Umweltbewusstsein fördern** durch Bildung und praktische Erfahrungen
-- **Nachhaltiges Leben** in unserer Gemeinde vorantreiben
-- **Gemeinschaft schaffen** zwischen naturverbundenen Menschen
+Mit herzlichem Wandergruß
 
-## Unsere geplanten Aktivitäten
-
-- **Naturexkursionen** und geführte Wanderungen
-- **Umweltbildung** für Kinder und Erwachsene
-- **Biotoppflege** und Landschaftsschutzprojekte
-- **Nachhaltigkeitsinitiativen** in der Gemeinde
-- **Workshops** zu ökologischen Themen
-
-## Mitmachen
-
-Sind Sie interessiert an Naturschutz und nachhaltiger Entwicklung in Bösingen? Möchten Sie sich aktiv für unsere Umwelt einsetzen? Dann freuen wir uns über Ihr Interesse!
-
-**Kontakt:**
-- E-Mail: [info@naturaktiv-boesingen.de](mailto:info@naturaktiv-boesingen.de)
-- Interessenten können sich gerne bei uns melden
-
-## Vereinsinformationen
-
-**Offizieller Status:** Eingetragener Verein  
-**Vereinsregister:** VR 727115, Amtsgericht Stuttgart  
-**Eintragung:** 08. Mai 2025  
-**1. Vorsitzender:** Hans-Willi Kraft  
-**Stellv. Vorsitzende:** Sabine Broghammer
-
-Als eingetragener Verein können wir nun offiziell unsere Aktivitäten beginnen und freuen uns über neue Mitglieder!
+Die Vorstandschaft
 
 ---
 
-*Gemeinsam für eine lebenswerte Zukunft in Bösingen*
+**[Hier finden Sie alle Dokumente zum Verein](/dokumente/)**
+
+---
+
+*„Nichts bringt uns auf unserem Weg besser voran als eine Pause.“ --- Elizabeth Barrett Browning*

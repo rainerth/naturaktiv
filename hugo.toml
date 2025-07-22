@@ -8,6 +8,7 @@ copyright = 'NaturAktiv Bösingen e.V. | VR 727115'
 paginate = 10
 
 enableRobotsTXT = true
+buildFuture = true
 
 [markup]
   [markup.goldmark]
@@ -19,9 +20,9 @@ home = ["HTML", "RSS"]
 
 [params]
 	header_image = "img/naturaktiv-hero.jpg"
-	slogan = "Gemeinsam Natur erleben"
+	slogan = "Gemeinsam Wandern"
 	SEOTitle = "NaturAktiv Bösingen e.V."
-	SEODescription = "NaturAktiv Bösingen e.V. - Offiziell eingetragener Verein für Wandern und Natur in Bösingen"
+	SEODescription = "NaturAktiv Bösingen e.V. - Eingetragener Wanderverein in Bösingen"
 	SEOKeywords = "NaturAktiv Bösingen, Wandern, Hofboschhütte, Harzwald, Naturschutz, 78662 Bösingen, VR 727115"
 	description = "Eingetragener Verein für aktives Wandern und Naturschutz"
 	author = "NaturAktiv Bösingen e.V."
@@ -36,7 +37,7 @@ home = ["HTML", "RSS"]
 	omit_categories = true
 
 	# Sidebar settings
-	sidebar_about_description = "Eingetragener Verein für Wandern und Naturschutz."
+	sidebar_about_description = ""
 	sidebar_avatar = "img/logo-naturaktiv.png"
 
 	featured_tags = false

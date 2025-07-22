@@ -1,33 +1,23 @@
 ---
-title: "Vereinsgründung in Vorbereitung"
-subtitle: "NaturAktiv Bösingen e.V. entsteht"
-date: 2025-01-22
+title: "Waldmurmelbahn und Karussell aufgebaut"
+subtitle: ""
+date: 2025-05-15
 draft: false
-tags: ["Vereinsgründung", "Aktuell"]
+tags: ["Harzwald", "Aktuell"]
 categories: ["Neuigkeiten"]
-author: "NaturAktiv Gründerteam"
+author: "NaturAktiv"
 ---
 
-Die Vorbereitungen für die Gründung von NaturAktiv Bösingen e.V. laufen auf Hochtouren. 
+Der Verein hat die Waldmurmelbahn wieder aufgebaut und ein neues unfallsicheres Drehkarussell auf dem Spielplatz bei der Hofboschhütte unter der Leitung von Siegfried Szillat und seinen tüchtigen Helfern montiert. Ein „Vergeltsgott“ Ihnen dafür und ein herzliches Dankeschön auch an Walter und Birgit Bantle für die Spende der Hackschnetzel für den Spielplatz.
 
+Wir wünschen nun allen Kindern viel Freude beim spielen.
 <!--more-->
 
-## Aktueller Stand
+![Murmelbahn](/img/Murmelbahn-495x386.jpg)
 
-Unser Gründerteam arbeitet intensiv an den Vorbereitungen für die offizielle Vereinsgründung. Dabei werden alle rechtlichen und organisatorischen Aspekte sorgfältig geplant.
 
-## Interessenten gesucht
-
-Sind Sie interessiert an:
-- **Naturschutz** und aktivem Umweltschutz?
-- **Wanderungen** und Naturerlebnissen?
-- **Umweltbildung** für Jung und Alt?
-- **Nachhaltigen Projekten** in Bösingen?
-
-Dann melden Sie sich gerne bei uns!
 
 ## Kontakt
 
 E-Mail: [info@naturaktiv-boesingen.de](mailto:info@naturaktiv-boesingen.de)
 
-Wir freuen uns über Ihr Interesse und Ihre Unterstützung bei der Vereinsgründung.

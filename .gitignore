@@ -183,4 +183,5 @@ $RECYCLE.BIN/
 *.lnk
 
 # Eigene Ausnahmen
-rohmaterial/*
+/rohmaterial/
+/public/

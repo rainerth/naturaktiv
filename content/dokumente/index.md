@@ -24,7 +24,7 @@ Hier findest du wichtige Dokumente rund um den Verein NaturAktiv Bösingen e.V.
       </div>
     </div>
   </div>
-  
+
   <div class="col-md-6">
     <div class="panel panel-default">
       <div class="panel-body">
@@ -52,7 +52,7 @@ Hier findest du wichtige Dokumente rund um den Verein NaturAktiv Bösingen e.V.
       </div>
     </div>
   </div>
-  
+
   <div class="col-md-6">
     <div class="panel panel-default">
       <div class="panel-body">
@@ -83,4 +83,4 @@ Bei Fragen zu den Dokumenten oder zur Mitgliedschaft:
 
 ---
 
-*Alle Dokumente stehen als PDF zum kostenlosen Download bereit.*
+*Alle Dokumente stehen als PDF zum Download bereit.*

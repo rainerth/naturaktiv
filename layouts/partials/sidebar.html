@@ -49,7 +49,10 @@
         <hr class="hidden-sm hidden-xs">
         <h5><a href="/termine/">TERMINE</a></h5>
         <ul class="list-unstyled">
-            {{ range first 3 (where .Site.Pages "Section" "termine") }}
+            {{/* Grenzdatum berechnen -4 Tage zurück ab Build-Zeit */}}
+            {{ $cutoff := now.AddDate 0 0 -4 }}
+            {{/* Erste 3 Termine ab Cutoff, sortiert */}}
+            {{ range first 3 (sort (where (where site.RegularPages "Section" "termine") "Date" "ge" $cutoff) "Date" "asc") }}
             <li style="margin-bottom: 10px;">
                 <a href="{{ .Permalink }}">{{ .Title }}</a>
                 <br><small class="text-muted">{{ .Date.Format "02.01.2006" }}</small>
