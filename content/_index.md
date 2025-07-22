@@ -3,7 +3,7 @@ title: "NaturAktiv Bösingen e.V."
 subtitle: "Natur erleben - Umwelt schützen"
 date: 2025-01-22
 draft: false
-header_image: "img/nature-hero.jpg"
+header_image: "img/naturaktiv-hero.jpg"
 description: "Verein für Naturschutz, Umweltbildung und nachhaltiges Leben in Bösingen (in Gründung)"
 tags: ["Naturschutz", "Umweltbildung", "Nachhaltigkeit", "Bösingen"]
 ---

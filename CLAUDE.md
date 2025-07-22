@@ -4,13 +4,13 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a Hugo static site for "NaturAktiv Bösingen e.V." (in Gründung) - a website for an environmental association in formation in Bösingen, Germany. The site focuses on nature conservation, environmental education, and sustainable living.
+This is a Hugo static site for "NaturAktiv Bösingen e.V." - a website for an environmental association in formation in Bösingen, Germany. The site focuses on nature conservation, environmental education, and sustainable living.
 
 ## Architecture
 
 - **Site Root**: `/naturaktiv/` directory contains the Hugo site
 - **Theme**: Uses `hugo-theme-cleanwhite` as a Git submodule in `/themes/`
-- **Content Structure**: 
+- **Content Structure**:
   - `/content/_index.md`: Homepage with association information
   - `/content/impressum/`: Legal notice page
   - `/content/dokumente/`: Documents page for future downloads

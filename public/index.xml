@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>NaturAktiv Bösingen e.V. on NaturAktiv Bösingen e.V. (in Gründung)</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in NaturAktiv Bösingen e.V. on NaturAktiv Bösingen e.V. (in Gründung)</description>
+    <title>NaturAktiv Bösingen e.V.</title>
+    <link>http://localhost:34681/</link>
+    <description>Recent content on NaturAktiv Bösingen e.V.</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <copyright>NaturAktiv Bösingen e.V. (in Gründung)</copyright>
+    <copyright>NaturAktiv Bösingen e.V.</copyright>
     <lastBuildDate>Wed, 22 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:34681/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dokumente</title>
-      <link>http://localhost:1313/dokumente/</link>
+      <link>http://localhost:34681/dokumente/</link>
       <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/dokumente/</guid>
+      <guid>http://localhost:34681/dokumente/</guid>
       <description>Dokumente Hier finden Sie wichtige Dokumente rund um den Verein NaturAktiv Bösingen e.V.&#xA;Vereinsdokumente Da sich unser Verein noch in der Gründungsphase befindet, stehen die finalen Dokumente noch nicht zur Verfügung. Wir werden diese Seite aktualisieren, sobald die entsprechenden Unterlagen verfügbar sind.&#xA;Geplante Dokumente Satzung&#xA;Die Vereinssatzung wird nach Fertigstellung und Gründung des Vereins hier zum Download bereitgestellt.&#xA;Beitrittserklärung&#xA;Das Formular für den Vereinsbeitritt wird nach der Vereinsgründung hier verfügbar sein.</description>
     </item>
     <item>
       <title>Impressum</title>
-      <link>http://localhost:1313/impressum/</link>
+      <link>http://localhost:34681/impressum/</link>
       <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/impressum/</guid>
+      <guid>http://localhost:34681/impressum/</guid>
       <description>Impressum Angaben gemäß § 5 TMG NaturAktiv Bösingen e.V. (in Gründung)&#xA;Vertretungsberechtigte Personen:&#xA;[Name des Gründungsvorstands]&#xA;Anschrift:&#xA;[Straße und Hausnummer]&#xA;78662 Bösingen&#xA;Deutschland&#xA;Kontakt:&#xA;Telefon: [Telefonnummer]&#xA;E-Mail: info@naturaktiv-boesingen.de&#xA;Haftungsausschluss Haftung für Inhalte Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich.</description>
     </item>
   </channel>

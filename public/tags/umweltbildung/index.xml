@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Umweltbildung on NaturAktiv Bösingen e.V. (in Gründung)</title>
-    <link>http://localhost:1313/tags/umweltbildung/</link>
-    <description>Recent content in Umweltbildung on NaturAktiv Bösingen e.V. (in Gründung)</description>
+    <title>Umweltbildung on NaturAktiv Bösingen e.V.</title>
+    <link>http://localhost:34681/tags/umweltbildung/</link>
+    <description>Recent content in Umweltbildung on NaturAktiv Bösingen e.V.</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <copyright>NaturAktiv Bösingen e.V. (in Gründung)</copyright>
+    <copyright>NaturAktiv Bösingen e.V.</copyright>
     <lastBuildDate>Wed, 22 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/umweltbildung/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:34681/tags/umweltbildung/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NaturAktiv Bösingen e.V.</title>
-      <link>http://localhost:1313/</link>
+      <link>http://localhost:34681/</link>
       <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/</guid>
+      <guid>http://localhost:34681/</guid>
       <description>Willkommen bei NaturAktiv Bösingen e.V. Unser Verein befindet sich derzeit in Gründung&#xA;NaturAktiv Bösingen e.V. ist ein im Entstehen begriffener Verein, der sich dem Naturschutz, der Umweltbildung und der Förderung nachhaltigen Lebens in unserer Gemeinde Bösingen widmet.&#xA;Unsere Vision Wir möchten:&#xA;Die Natur schützen und erhalten für kommende Generationen Umweltbewusstsein fördern durch Bildung und praktische Erfahrungen Nachhaltiges Leben in unserer Gemeinde vorantreiben Gemeinschaft schaffen zwischen naturverbundenen Menschen Unsere geplanten Aktivitäten Naturexkursionen und geführte Wanderungen Umweltbildung für Kinder und Erwachsene Biotoppflege und Landschaftsschutzprojekte Nachhaltigkeitsinitiativen in der Gemeinde Workshops zu ökologischen Themen Mitmachen Sind Sie interessiert an Naturschutz und nachhaltiger Entwicklung in Bösingen?</description>
     </item>
   </channel>

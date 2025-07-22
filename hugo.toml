@@ -1,8 +1,8 @@
 baseURL = 'https://www.naturaktiv-boesingen.de'
 languageCode = 'de'
-title = 'NaturAktiv Bösingen e.V. (in Gründung)'
+title = 'NaturAktiv Bösingen e.V.'
 theme = 'hugo-theme-cleanwhite'
-copyright = 'NaturAktiv Bösingen e.V. (in Gründung)'
+copyright = 'NaturAktiv Bösingen e.V.'
 
 #frontpage pagination
 paginate = 10
@@ -13,14 +13,14 @@ enableRobotsTXT = true
 home = ["HTML", "RSS"]
 
 [params]
-	header_image = "img/nature-hero.jpg"
-	slogan = "Natur erleben - Umwelt schützen"
-	SEOTitle = "NaturAktiv Bösingen e.V. - Naturschutz und Umweltbildung"
-	SEODescription = "NaturAktiv Bösingen e.V. (in Gründung) - Verein für Naturschutz, Umweltbildung und nachhaltiges Leben in Bösingen"
-	SEOKeywords = "NaturAktiv Bösingen, Naturschutz, Umweltbildung, Nachhaltigkeit, 78662 Bösingen, Umweltverein"
-	description = "Verein für Naturschutz und Umweltbildung"
+	header_image = "img/naturaktiv-hero.jpg"
+	slogan = "Gemeinsam Natur erleben"
+	SEOTitle = "NaturAktiv Bösingen e.V."
+	SEODescription = "NaturAktiv Bösingen e.V. - Wandern und Natur erleben in Bösingen"
+	SEOKeywords = "NaturAktiv Bösingen, Wandern, Hofboschhütte, Harzwald, Naturschutz, 78662 Bösingen"
+	description = "Verein für aktives Wandern"
 	author = "NaturAktiv Bösingen e.V."
-	keywords = "Naturschutz, Umweltbildung, Nachhaltigkeit, Bösingen"
+	keywords = "Wandern, Schwarzwald, Schwäbische Alb, Bösingen"
 
 	logo = "/img/logo-naturaktiv.png"
 	favicon = "/favicon.ico"
@@ -31,7 +31,7 @@ home = ["HTML", "RSS"]
 	omit_categories = true
 
 	# Sidebar settings
-	sidebar_about_description = "Verein für Naturschutz und Umweltbildung (in Gründung)"
+	sidebar_about_description = "Gemeinsam Wandern und Natur erleben."
 	sidebar_avatar = "img/logo-naturaktiv.png"
 
 	featured_tags = false
@@ -41,11 +41,11 @@ home = ["HTML", "RSS"]
 	bookmarks = false
 	about_me = true
 
-	[[params.addtional_menus]]
+	[[params.additional_menus]]
 	title = "Dokumente"
 	href = "/dokumente"
 
-	[[params.addtional_menus]]
+	[[params.additional_menus]]
 	title = "Impressum"
 	href = "/impressum"
 
