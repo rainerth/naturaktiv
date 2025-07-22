@@ -1,0 +1,54 @@
+baseURL = 'https://www.naturaktiv-boesingen.de'
+languageCode = 'de'
+title = 'NaturAktiv Bösingen e.V. (in Gründung)'
+theme = 'hugo-theme-cleanwhite'
+copyright = 'NaturAktiv Bösingen e.V. (in Gründung)'
+
+#frontpage pagination
+paginate = 10
+
+enableRobotsTXT = true
+
+[outputs]
+home = ["HTML", "RSS"]
+
+[params]
+	header_image = "img/nature-hero.jpg"
+	slogan = "Natur erleben - Umwelt schützen"
+	SEOTitle = "NaturAktiv Bösingen e.V. - Naturschutz und Umweltbildung"
+	SEODescription = "NaturAktiv Bösingen e.V. (in Gründung) - Verein für Naturschutz, Umweltbildung und nachhaltiges Leben in Bösingen"
+	SEOKeywords = "NaturAktiv Bösingen, Naturschutz, Umweltbildung, Nachhaltigkeit, 78662 Bösingen, Umweltverein"
+	description = "Verein für Naturschutz und Umweltbildung"
+	author = "NaturAktiv Bösingen e.V."
+	keywords = "Naturschutz, Umweltbildung, Nachhaltigkeit, Bösingen"
+
+	logo = "/img/logo-naturaktiv.png"
+	favicon = "/favicon.ico"
+
+	custom_css = ["css/naturaktiv.css"]
+
+	image_404 = "img/404-bg.jpg"
+	omit_categories = true
+
+	# Sidebar settings
+	sidebar_about_description = "Verein für Naturschutz und Umweltbildung (in Gründung)"
+	sidebar_avatar = "img/logo-naturaktiv.png"
+
+	featured_tags = false
+	featured_condition_size = 1
+
+	friends = false
+	bookmarks = false
+	about_me = true
+
+	[[params.addtional_menus]]
+	title = "Dokumente"
+	href = "/dokumente"
+
+	[[params.addtional_menus]]
+	title = "Impressum"
+	href = "/impressum"
+
+	[params.social]
+	rss = true
+	email = "info@naturaktiv-boesingen.de"
