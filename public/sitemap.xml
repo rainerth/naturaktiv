@@ -2,7 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:34681/tags/gr%C3%BCndung/</loc>
+    <lastmod>2025-02-15T19:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34681/termine/20250215_gruendungsversammlung/</loc>
+    <lastmod>2025-02-15T19:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34681/tags/</loc>
+    <lastmod>2025-02-15T19:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34681/tags/versammlung/</loc>
+    <lastmod>2025-02-15T19:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34681/tags/aktuell/</loc>
+    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:34681/tags/b%C3%B6singen/</loc>
+    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34681/categories/</loc>
     <lastmod>2025-01-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:34681/dokumente/</loc>
@@ -20,12 +38,31 @@
     <loc>http://localhost:34681/tags/naturschutz/</loc>
     <lastmod>2025-01-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:34681/tags/</loc>
+    <loc>http://localhost:34681/categories/neuigkeiten/</loc>
+    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34681/post/</loc>
+    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34681/termine/</loc>
     <lastmod>2025-01-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:34681/tags/umweltbildung/</loc>
     <lastmod>2025-01-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:34681/categories/</loc>
+    <loc>http://localhost:34681/tags/vereinsgr%C3%BCndung/</loc>
+    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34681/post/20250122_vereinsgruendung/</loc>
+    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34681/tags/start/</loc>
+    <lastmod>2025-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34681/tags/willkommen/</loc>
+    <lastmod>2025-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34681/post/20250120_willkommen/</loc>
+    <lastmod>2025-01-20T00:00:00+00:00</lastmod>
   </url>
 </urlset>

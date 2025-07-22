@@ -4,15 +4,15 @@ subtitle: "Natur erleben - Umwelt schützen"
 date: 2025-01-22
 draft: false
 header_image: "img/naturaktiv-hero.jpg"
-description: "Verein für Naturschutz, Umweltbildung und nachhaltiges Leben in Bösingen (in Gründung)"
+description: "Offiziell eingetragener Verein für Naturschutz, Umweltbildung und nachhaltiges Leben in Bösingen"
 tags: ["Naturschutz", "Umweltbildung", "Nachhaltigkeit", "Bösingen"]
 ---
 
 # Willkommen bei NaturAktiv Bösingen e.V.
 
-**Unser Verein befindet sich derzeit in Gründung**
+**Wir sind ein offiziell eingetragener Verein!**
 
-NaturAktiv Bösingen e.V. ist ein im Entstehen begriffener Verein, der sich dem Naturschutz, der Umweltbildung und der Förderung nachhaltigen Lebens in unserer Gemeinde Bösingen widmet.
+NaturAktiv Bösingen e.V. ist seit dem 08. Mai 2025 offiziell im Vereinsregister des Amtsgerichts Stuttgart eingetragen (VR 727115). Unser Verein widmet sich dem Naturschutz, der Umweltbildung und der Förderung nachhaltigen Lebens in unserer Gemeinde Bösingen.
 
 ## Unsere Vision
 
@@ -38,9 +38,15 @@ Sind Sie interessiert an Naturschutz und nachhaltiger Entwicklung in Bösingen? 
 - E-Mail: [info@naturaktiv-boesingen.de](mailto:info@naturaktiv-boesingen.de)
 - Interessenten können sich gerne bei uns melden
 
-## Status: In Gründung
+## Vereinsinformationen
 
-Unser Verein befindet sich noch in der Gründungsphase. Sobald alle formalen Schritte abgeschlossen sind, werden wir mit unseren Aktivitäten beginnen. Bis dahin sammeln wir gerne Interessensbekundungen und Ideen für zukünftige Projekte.
+**Offizieller Status:** Eingetragener Verein  
+**Vereinsregister:** VR 727115, Amtsgericht Stuttgart  
+**Eintragung:** 08. Mai 2025  
+**1. Vorsitzender:** Hans-Willi Kraft  
+**Stellv. Vorsitzende:** Sabine Broghammer
+
+Als eingetragener Verein können wir nun offiziell unsere Aktivitäten beginnen und freuen uns über neue Mitglieder!
 
 ---
 

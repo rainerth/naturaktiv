@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aktuell on NaturAktiv Bösingen e.V.</title>
+    <link>http://localhost:34681/tags/aktuell/</link>
+    <description>Recent content in Aktuell on NaturAktiv Bösingen e.V.</description>
+    <generator>Hugo</generator>
+    <language>de</language>
+    <copyright>NaturAktiv Bösingen e.V. | VR 727115</copyright>
+    <lastBuildDate>Wed, 22 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:34681/tags/aktuell/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vereinsgründung in Vorbereitung</title>
+      <link>http://localhost:34681/post/20250122_vereinsgruendung/</link>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:34681/post/20250122_vereinsgruendung/</guid>
+      <description>&lt;p&gt;Die Vorbereitungen für die Gründung von NaturAktiv Bösingen e.V. laufen auf Hochtouren.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -2,12 +2,17 @@ baseURL = 'https://www.naturaktiv-boesingen.de'
 languageCode = 'de'
 title = 'NaturAktiv Bösingen e.V.'
 theme = 'hugo-theme-cleanwhite'
-copyright = 'NaturAktiv Bösingen e.V.'
+copyright = 'NaturAktiv Bösingen e.V. | VR 727115'
 
 #frontpage pagination
 paginate = 10
 
 enableRobotsTXT = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [outputs]
 home = ["HTML", "RSS"]
@@ -16,9 +21,9 @@ home = ["HTML", "RSS"]
 	header_image = "img/naturaktiv-hero.jpg"
 	slogan = "Gemeinsam Natur erleben"
 	SEOTitle = "NaturAktiv Bösingen e.V."
-	SEODescription = "NaturAktiv Bösingen e.V. - Wandern und Natur erleben in Bösingen"
-	SEOKeywords = "NaturAktiv Bösingen, Wandern, Hofboschhütte, Harzwald, Naturschutz, 78662 Bösingen"
-	description = "Verein für aktives Wandern"
+	SEODescription = "NaturAktiv Bösingen e.V. - Offiziell eingetragener Verein für Wandern und Natur in Bösingen"
+	SEOKeywords = "NaturAktiv Bösingen, Wandern, Hofboschhütte, Harzwald, Naturschutz, 78662 Bösingen, VR 727115"
+	description = "Eingetragener Verein für aktives Wandern und Naturschutz"
 	author = "NaturAktiv Bösingen e.V."
 	keywords = "Wandern, Schwarzwald, Schwäbische Alb, Bösingen"
 
@@ -31,7 +36,7 @@ home = ["HTML", "RSS"]
 	omit_categories = true
 
 	# Sidebar settings
-	sidebar_about_description = "Gemeinsam Wandern und Natur erleben."
+	sidebar_about_description = "Eingetragener Verein für Wandern und Naturschutz."
 	sidebar_avatar = "img/logo-naturaktiv.png"
 
 	featured_tags = false
@@ -40,6 +45,14 @@ home = ["HTML", "RSS"]
 	friends = false
 	bookmarks = false
 	about_me = true
+
+	[[params.additional_menus]]
+	title = "Neuigkeiten"
+	href = "/post"
+
+	[[params.additional_menus]]
+	title = "Termine"
+	href = "/termine"
 
 	[[params.additional_menus]]
 	title = "Dokumente"

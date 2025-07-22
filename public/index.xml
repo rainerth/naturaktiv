@@ -2,26 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NaturAktiv Bösingen e.V.</title>
-    <link>http://localhost:34681/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on NaturAktiv Bösingen e.V.</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <copyright>NaturAktiv Bösingen e.V.</copyright>
-    <lastBuildDate>Wed, 22 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:34681/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>NaturAktiv Bösingen e.V. | VR 727115</copyright>
+    <lastBuildDate>Sat, 15 Feb 2025 19:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gründungsversammlung</title>
+      <link>http://localhost:1313/termine/20250215_gruendungsversammlung/</link>
+      <pubDate>Sat, 15 Feb 2025 19:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/termine/20250215_gruendungsversammlung/</guid>
+      <description>Datum: 15. Februar 2025, 19:00 Uhr&#xA;Ort: Bürgerhaus Bösingen&#xA;Herzliche Einladung zur Gründungsversammlung von NaturAktiv Bösingen e.V.</description>
+    </item>
     <item>
       <title>Dokumente</title>
-      <link>http://localhost:34681/dokumente/</link>
+      <link>http://localhost:1313/dokumente/</link>
       <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:34681/dokumente/</guid>
-      <description>Dokumente Hier finden Sie wichtige Dokumente rund um den Verein NaturAktiv Bösingen e.V.&#xA;Vereinsdokumente Da sich unser Verein noch in der Gründungsphase befindet, stehen die finalen Dokumente noch nicht zur Verfügung. Wir werden diese Seite aktualisieren, sobald die entsprechenden Unterlagen verfügbar sind.&#xA;Geplante Dokumente Satzung&#xA;Die Vereinssatzung wird nach Fertigstellung und Gründung des Vereins hier zum Download bereitgestellt.&#xA;Beitrittserklärung&#xA;Das Formular für den Vereinsbeitritt wird nach der Vereinsgründung hier verfügbar sein.</description>
+      <guid>http://localhost:1313/dokumente/</guid>
+      <description>Dokumente Hier findest du wichtige Dokumente rund um den Verein NaturAktiv Bösingen e.V.&#xA;Vereinsdokumente zum Download Vereinssatzung Die offizielle Satzung von NaturAktiv Bösingen e.V.&#xA;PDF herunterladen Stand: 29.04.2025 Beitrittserklärung Formular für den Beitritt zum Verein&#xA;PDF herunterladen Aktuelles Formular Datenschutzordnung Informationen zum Datenschutz im Verein&#xA;PDF herunterladen Stand: 2025 Beiträge Übersicht der aktuellen Mitgliedsbeiträge&#xA;PDF herunterladen Aktuelle Beitragssätze Mitglied werden Interessiert an einer Mitgliedschaft? So geht&amp;rsquo;s:&#xA;Beitrittserklärung herunterladen und ausfüllen Satzung lesen und verstehen Ausgefülltes Formular per E-Mail senden oder bei einem Vereinstreffen abgeben Kontakt Bei Fragen zu den Dokumenten oder zur Mitgliedschaft:</description>
     </item>
     <item>
       <title>Impressum</title>
-      <link>http://localhost:34681/impressum/</link>
+      <link>http://localhost:1313/impressum/</link>
       <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:34681/impressum/</guid>
-      <description>Impressum Angaben gemäß § 5 TMG NaturAktiv Bösingen e.V. (in Gründung)&#xA;Vertretungsberechtigte Personen:&#xA;[Name des Gründungsvorstands]&#xA;Anschrift:&#xA;[Straße und Hausnummer]&#xA;78662 Bösingen&#xA;Deutschland&#xA;Kontakt:&#xA;Telefon: [Telefonnummer]&#xA;E-Mail: info@naturaktiv-boesingen.de&#xA;Haftungsausschluss Haftung für Inhalte Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich.</description>
+      <guid>http://localhost:1313/impressum/</guid>
+      <description>Impressum Angaben gemäß § 5 TMG NaturAktiv Bösingen e.V.&#xA;Eingetragener Verein&#xA;Vereinsregister: VR 727115&#xA;Amtsgericht Stuttgart&#xA;Vertretungsberechtigte Personen:&#xA;Vorsitzender: Hans-Willi Kraft&#xA;Stellv. Vorsitzende: Sabine Broghammer Anschrift:&#xA;78662 Bösingen&#xA;Deutschland&#xA;Kontakt:&#xA;E-Mail: info@naturaktiv-boesingen.de&#xA;Vereinsregister Registergericht: Amtsgericht Stuttgart&#xA;Registernummer: VR 727115&#xA;Datum der Eintragung: 08. Mai 2025&#xA;Satzung vom: 28. April 2025&#xA;Haftungsausschluss Haftung für Inhalte Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen.</description>
+    </item>
+    <item>
+      <title>Vereinsgründung in Vorbereitung</title>
+      <link>http://localhost:1313/post/20250122_vereinsgruendung/</link>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/20250122_vereinsgruendung/</guid>
+      <description>&lt;p&gt;Die Vorbereitungen für die Gründung von NaturAktiv Bösingen e.V. laufen auf Hochtouren.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Willkommen bei NaturAktiv!</title>
+      <link>http://localhost:1313/post/20250120_willkommen/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/20250120_willkommen/</guid>
+      <description>&lt;p&gt;Herzlich willkommen auf der Website von NaturAktiv Bösingen e.V. (in Gründung)!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
