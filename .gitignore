@@ -181,6 +181,7 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 *.lnk
+*~
 
 # Eigene Ausnahmen
 /rohmaterial/

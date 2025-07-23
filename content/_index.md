@@ -1,10 +1,10 @@
 ---
 title: "NaturAktiv Bösingen e.V."
 subtitle: "Gemeinsam Wandern und Natur erleben"
-date: 2025-01-22
+date: 2025-07-22
 draft: false
 header_image: "img/naturaktiv-hero.jpg"
-description: "Eingetragener Wanderverein"
+description: "Eingetragener Wanderverein in 78662 Bösingen"
 tags: ["Wandern", "Naturschutz", "Bösingen"]
 ---
 
@@ -21,7 +21,7 @@ Die Vorstandschaft
 
 ---
 
-**[Dokumente zum Verein | Beitrittserklärung | Satzung ](/dokumente/)**
+**[Dokumente zum Verein | Beitrittserklärung | Satzung | ... ](/dokumente/)**
 
 ---
 
