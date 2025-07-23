@@ -9,10 +9,13 @@
                 
                 <hr>
                 
-                {{/* Grenzdatum berechnen -4 Tage zurück ab Build-Zeit */}}
-                {{ $cutoff := now.AddDate 0 0 -4 }}
-                {{/* Alle Termine-Seiten auf >= cutoff filtern und sortieren */}}
-                {{ $events := sort (where (where site.RegularPages "Section" "termine") "Date" "ge" $cutoff) "Date" "asc" }}
+                {{/* Grenzdatum berechnen - konfigurierbare Tage zurück ab Build-Zeit */}}
+                {{ $daysBack := site.Params.termine_days_back | default 4 }}
+                {{ $cutoff := now.AddDate 0 0 (mul -1 $daysBack) }}
+                {{/* Alle Termine-Seiten auf >= cutoff filtern */}}
+                {{ $events := where (where site.RegularPages "Section" "termine") "Date" "ge" $cutoff }}
+                {{/* Sortieren nach Datum aufsteigend (chronologisch) */}}
+                {{ $events = sort $events "Date" "asc" }}
                 {{ range $events }}
                 <div style="margin-bottom: 30px; border-left: 4px solid #2c5530; padding-left: 15px;">
                     <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
