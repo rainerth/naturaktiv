@@ -9,17 +9,36 @@
                 
                 <hr>
                 
-                {{ range .Pages }}
-                <div style="margin-bottom: 30px;">
-                    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-                    <p class="text-muted">{{ .Date.Format "02.01.2006" }}</p>
-                    {{ if .Summary }}
-                        <p>{{ .Summary }}</p>
-                    {{ else }}
-                        <p>{{ .Content | truncate 200 }}</p>
+                {{/* Datumsfilterung je nach Section */}}
+                {{ if eq .Section "neuigkeiten" }}
+                    {{/* Posts: Nur vergangene und heutige Artikel anzeigen */}}
+                    {{ $filteredPages := where .Pages "Date" "le" now }}
+                    {{ range sort $filteredPages "Date" "desc" }}
+                    <div style="margin-bottom: 30px;">
+                        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                        <p class="text-muted">{{ .Date.Format "02.01.2006" }}</p>
+                        {{ if .Summary }}
+                            <p>{{ .Summary }}</p>
+                        {{ else }}
+                            <p>{{ .Content | truncate 200 }}</p>
+                        {{ end }}
+                        <a href="{{ .Permalink }}">Weiterlesen →</a>
+                    </div>
                     {{ end }}
-                    <a href="{{ .Permalink }}">Weiterlesen →</a>
-                </div>
+                {{ else }}
+                    {{/* Andere Sections: Alle Pages anzeigen */}}
+                    {{ range .Pages }}
+                    <div style="margin-bottom: 30px;">
+                        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                        <p class="text-muted">{{ .Date.Format "02.01.2006" }}</p>
+                        {{ if .Summary }}
+                            <p>{{ .Summary }}</p>
+                        {{ else }}
+                            <p>{{ .Content | truncate 200 }}</p>
+                        {{ end }}
+                        <a href="{{ .Permalink }}">Weiterlesen →</a>
+                    </div>
+                    {{ end }}
                 {{ end }}
                 
                 {{ template "_internal/pagination.html" . }}

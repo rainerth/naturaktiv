@@ -52,7 +52,7 @@ home = ["HTML", "RSS"]
 
 	[[params.additional_menus]]
 	title = "Neuigkeiten"
-	href = "/post"
+	href = "/neuigkeiten"
 
 	[[params.additional_menus]]
 	title = "Termine"

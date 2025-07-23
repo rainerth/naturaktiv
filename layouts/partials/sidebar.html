@@ -32,16 +32,18 @@
     <!-- Neuigkeiten -->
     <section>
         <hr class="hidden-sm hidden-xs">
-        <h5><a href="/post/">NEUIGKEITEN</a></h5>
+        <h5><a href="/neuigkeiten/">NEUIGKEITEN</a></h5>
         <ul class="list-unstyled">
-            {{ range first 3 (where .Site.Pages "Section" "post") }}
+            {{/* Nur Posts mit Datum <= heute anzeigen */}}
+            {{ $posts := where (where .Site.Pages "Section" "neuigkeiten") "Date" "le" now }}
+            {{ range first 3 (sort $posts "Date" "desc") }}
             <li style="margin-bottom: 10px;">
                 <a href="{{ .Permalink }}">{{ .Title }}</a>
                 <br><small class="text-muted">{{ .Date.Format "02.01.2006" }}</small>
             </li>
             {{ end }}
         </ul>
-        <p><a href="/post/">Alle Neuigkeiten →</a></p>
+        <p><a href="/neuigkeiten/">Alle Neuigkeiten →</a></p>
     </section>
 
     <!-- Termine -->

@@ -15,8 +15,8 @@ Vereinsregister: VR 727115<br>
 Amtsgericht Stuttgart<br>
 
 **Vertretungsberechtigte Personen:**
-1. Vorsitzender: Hans-Willi Kraft<br>
-Stellv. Vorsitzende: Sabine Broghammer<br>
+Erster Vorsitzender: Hans-Willi Kraft<br>
+Stellvertretende Vorsitzende: Sabine Broghammer<br>
 
 **Anschrift:**
 78662 Bösingen
