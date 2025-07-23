@@ -50,8 +50,7 @@
         <h5><a href="/termine/">TERMINE</a></h5>
         <ul class="list-unstyled">
             {{/* Grenzdatum berechnen - konfigurierbare Tage zurück ab Build-Zeit */}}
-            {{ $daysBack := site.Params.termine_days_back | default 4 }}
-            {{ $cutoff := now.AddDate 0 0 (mul -1 $daysBack) }}
+            {{ $cutoff := now.AddDate 0 0 -4 }}
             {{/* Termine ab Cutoff filtern */}}
             {{ $events := where (where site.RegularPages "Section" "termine") "Date" "ge" $cutoff }}
             {{/* Sortieren nach Datum aufsteigend und erste 3 nehmen */}}
