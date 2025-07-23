@@ -49,19 +49,34 @@
         <hr class="hidden-sm hidden-xs">
         <h5><a href="/termine/">TERMINE</a></h5>
         <ul class="list-unstyled">
-            {{/* Grenzdatum berechnen - konfigurierbare Tage zurück ab Build-Zeit */}}
-            {{ $cutoff := now.AddDate 0 0 -4 }}
-            {{/* Termine ab Cutoff filtern */}}
-            {{ $events := where (where site.RegularPages "Section" "termine") "Date" "ge" $cutoff }}
-            {{/* Sortieren nach Datum aufsteigend und erste 3 nehmen */}}
-            {{ range first 3 (sort $events "Date" "asc") }}
-            <li style="margin-bottom: 10px;">
-                <a href="{{ .Permalink }}">{{ .Title }}</a>
-                <br><small class="text-muted">{{ .Date.Format "02.01.2006" }}</small>
-                {{ with .Params.location }}
-                <br><small class="text-muted"><i class="fa fa-map-marker"></i> {{ . }}</small>
+            {{ if .IsHome }}
+                {{/* Homepage: Alle Termine ohne Zeitfilterung */}}
+                {{ $events := where site.RegularPages "Section" "termine" }}
+                {{/* Sortieren nach Datum aufsteigend und erste 3 nehmen */}}
+                {{ range first 3 (sort $events "Date" "asc") }}
+                <li style="margin-bottom: 10px;">
+                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+                    <br><small class="text-muted">{{ .Date.Format "02.01.2006" }}</small>
+                    {{ with .Params.location }}
+                    <br><small class="text-muted"><i class="fa fa-map-marker"></i> {{ . }}</small>
+                    {{ end }}
+                </li>
                 {{ end }}
-            </li>
+            {{ else }}
+                {{/* Andere Seiten: Grenzdatum berechnen - 4 Tage zurück ab Build-Zeit */}}
+                {{ $cutoff := now.AddDate 0 0 -4 }}
+                {{/* Termine ab Cutoff filtern */}}
+                {{ $events := where (where site.RegularPages "Section" "termine") "Date" "ge" $cutoff }}
+                {{/* Sortieren nach Datum aufsteigend und erste 3 nehmen */}}
+                {{ range first 3 (sort $events "Date" "asc") }}
+                <li style="margin-bottom: 10px;">
+                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+                    <br><small class="text-muted">{{ .Date.Format "02.01.2006" }}</small>
+                    {{ with .Params.location }}
+                    <br><small class="text-muted"><i class="fa fa-map-marker"></i> {{ . }}</small>
+                    {{ end }}
+                </li>
+                {{ end }}
             {{ end }}
         </ul>
         <p><a href="/termine/">Alle Termine →</a></p>

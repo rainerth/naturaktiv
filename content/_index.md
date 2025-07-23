@@ -21,7 +21,7 @@ Die Vorstandschaft
 
 ---
 
-**[Hier finden Sie / findest du Dokumente zum Verein](/dokumente/)**
+**[Dokumente zum Verein | Beitrittserklärung | Satzung ](/dokumente/)**
 
 ---
 
