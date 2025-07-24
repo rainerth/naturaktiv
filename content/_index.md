@@ -13,7 +13,7 @@ tags: ["Wandern", "Naturschutz", "Bösingen"]
 
 Liebe Wanderfreunde,
 
-für das Jahr 2025 haben wir wieder ein abwechslungsreiches Programm aus Ganztages-, Halbtages-, Familien-, Berg- und E-Bike-Touren zusammengestellt und freuen uns auf eine rege Beteiligung.
+In 2026 wird NaturAktiv für die aufgelöste Ortsgruppe attraktive Wander-und Fahrradtouren anbieten.
 
 Mit herzlichem Wandergruß
 
