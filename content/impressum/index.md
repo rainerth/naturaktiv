@@ -9,22 +9,23 @@ layout: "page"
 
 ## Angaben gemäß § 5 TMG
 
-**NaturAktiv Bösingen e.V.**
-Eingetragener Verein<br>
-Vereinsregister: VR 727115<br>
+**NaturAktiv Bösingen e.V.**<br>
+Eingetragener Verein im Vereinsregister: VR 727115<br>
 Amtsgericht Stuttgart<br>
 
-**Vertretungsberechtigte Personen:**
+**Vertretungsberechtigte Personen:**<br>
 Erster Vorsitzender: Hans-Willi Kraft<br>
 Stellvertretende Vorsitzende: Sabine Broghammer<br>
 
-**Anschrift:**
+**Anschrift:**<br>
 78662 Bösingen
 
-
-**Kontakt:**
+**Kontakt:**<br>
 E-Mail: info@naturaktiv-boesingen.de
 
+**Bankverbindung:**<br>
+Volksbank Schwarzwald-Donau-Neckar eG.<br>
+DE81 6439 0130 0336 5310 01<br>
 
 ## Haftungsausschluss
 
