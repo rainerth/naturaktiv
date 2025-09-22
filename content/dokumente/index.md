@@ -73,7 +73,7 @@ Interessiert an einer Mitgliedschaft? So geht's:
 
 1. **Beitrittserklärung** herunterladen und ausfüllen
 2. **Satzung** lesen und verstehen
-3. Ausgefülltes Formular per E-Mail senden oder bei einem Vereinstreffen abgeben
+3. Ausgefülltes Formular per E-Mail senden oder bei Hans-Willi Kraft in der Beffendorferstrasse 9  in den Briefkasten einwerfen
 
 ## Kontakt
 
