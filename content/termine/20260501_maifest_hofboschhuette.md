@@ -1,7 +1,7 @@
 ---
 title: "Maifest an der Hofboschhütte"
 date: 2026-05-01T11:00:00
-draft: false
+draft: true
 tags: ["Maifest", "Hofboschhütte", "Tradition", "Familie"]
 location: "Hofboschhütte, Bösingen"
 recurring: true
