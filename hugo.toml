@@ -5,7 +5,8 @@ theme = 'hugo-theme-cleanwhite'
 copyright = 'NaturAktiv Bösingen e.V. | VR 727115'
 
 #frontpage pagination
-paginate = 10
+[pagination]
+pagerSize = 10
 
 enableRobotsTXT = true
 buildFuture = true
