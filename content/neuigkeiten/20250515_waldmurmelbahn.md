@@ -2,7 +2,7 @@
 title: "Waldmurmelbahn und Karussell aufgebaut"
 subtitle: ""
 date: 2025-05-15
-draft: true
+draft: false
 tags: ["Harzwald", "Aktuell"]
 categories: ["Neuigkeiten"]
 author: "NaturAktiv"

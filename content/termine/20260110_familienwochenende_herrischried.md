@@ -1,7 +1,7 @@
 ---
 title: "Familien-Wochenende in Herrischried"
 date: 2026-01-10T00:00:00
-draft: true
+draft: false
 tags: ["Familie", "Schwarzwald", "Ski", "Schlitten", "Schlittschuh", "Disco"]
 location: "Herrischried"
 enddate: 2026-01-11T23:59:59

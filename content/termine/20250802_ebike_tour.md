@@ -1,7 +1,7 @@
 ---
 title: "E-Bike-Tour"
 date: 2025-08-02T09:00:00
-draft: true
+draft: false
 tags: ["E-Bike", "Radfahren", "Tour"]
 location: "Treffpunkt wird bekannt gegeben"
 ---
