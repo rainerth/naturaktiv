@@ -9,9 +9,9 @@
 
                 <hr>
 
-                {{/* Grenzdatum berechnen - konfigurierbare Tage zurück ab Build-Zeit */}}
-                {{ $cutoff := now.AddDate 0 0 -4 }}
-                {{/* Sortieren nach Datum absteigend (chronologisch) */}}
+                {{/* Alle Rückblick-Seiten holen */}}
+                {{ $events := where site.RegularPages "Section" "rueckblick" }}
+                {{/* Sortieren nach Datum absteigend (neueste zuerst) */}}
                 {{ $events = sort $events "Date" "desc" }}
                 {{ range $events }}
                 <div style="margin-bottom: 30px; border-left: 4px solid #2c5530; padding-left: 15px;">
