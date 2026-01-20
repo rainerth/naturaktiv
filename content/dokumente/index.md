@@ -15,6 +15,20 @@ Hier findest du wichtige Dokumente rund um den Verein NaturAktiv Bösingen e.V.
   <div class="col-md-6">
     <div class="panel panel-default">
       <div class="panel-body">
+        <h4><i class="fa fa-file-text-o"></i> Wanderplan</h4>
+        <p>Der Wanderplan für das Jahr 2026</p>
+        <a href="/documents/2026_Wanderplan_web.pdf" class="btn" style="background-color: #2c5530; color: white;" download>
+          <i class="fa fa-download"></i> PDF herunterladen
+        </a>
+        <small class="text-muted"><br>Stand: 10.01.2026</small>
+      </div>
+    </div>
+  </div>
+
+<div class="row" style="margin-top: 30px;">
+  <div class="col-md-6">
+    <div class="panel panel-default">
+      <div class="panel-body">
         <h4><i class="fa fa-file-text-o"></i> Vereinssatzung</h4>
         <p>Die offizielle Satzung von NaturAktiv Bösingen e.V.</p>
         <a href="/documents/NaturAktiv_Boesingen_Satzung_29.04.2025.pdf" class="btn" style="background-color: #2c5530; color: white;" download>
