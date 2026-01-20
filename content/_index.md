@@ -13,7 +13,7 @@ tags: ["Wandern", "Naturschutz", "Bösingen"]
 
 Liebe Wanderfreunde,
 
-In 2026 wird NaturAktiv für die aufgelöste Ortsgruppe attraktive Wander-und Fahrradtouren anbieten.
+Da die Ortsgruppe Bösingen sich zum 31.12.25 aufgelöst hat, wir der neu gegründete Verein NaturAktiv Bösingen e.V. euch 2026 wie gewohnt attraktive Wanderungen und mehr anbieten.
 
 Mit herzlichem Wandergruß
 
