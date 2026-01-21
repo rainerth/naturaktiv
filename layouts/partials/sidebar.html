@@ -72,7 +72,7 @@
         <hr class="hidden-sm hidden-xs">
         <h5><a href="/rueckblick/">RÜCKBLICK</a></h5>
         <ul class="list-unstyled">
-            {{/* Nur Posts mit Datum <= heute anzeigen */}} {{ $posts :=where (where .Site.Pages "Section" "neuigkeiten"
+            {{/* Nur Posts mit Datum <= heute anzeigen */}} {{ $posts :=where (where .Site.Pages "Section" "rueckblick"
                 ) "Date" "le" now }} {{ range first 3 (sort $posts "Date" "desc" ) }} <li style="margin-bottom: 10px;">
                 <a href="{{ .Permalink }}">{{ .Title }}</a>
                 <br><small class="text-muted">{{ .Date.Format "02.01.2006" }}</small>
