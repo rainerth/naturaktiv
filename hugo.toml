@@ -21,7 +21,7 @@ home = ["HTML", "RSS"]
 
 [params]
 	header_image = "img/naturaktiv-hero.jpg"
-	slogan = "Gemeinsam Wandern"
+	slogan = "Natur aktiv erleben"
 	SEOTitle = "NaturAktiv Bösingen e.V."
 	SEODescription = "NaturAktiv Bösingen e.V. - Eingetragener Wanderverein in Bösingen"
 	SEOKeywords = "NaturAktiv Bösingen, Wandern, Hofboschhütte, Harzwald, Naturschutz, 78662 Bösingen, VR 727115"
