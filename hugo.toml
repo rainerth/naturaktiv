@@ -32,7 +32,7 @@ home = ["HTML", "RSS"]
 	logo = "/img/logo-naturaktiv.png"
 	favicon = "/favicon.ico"
 
-	custom_css = ["css/naturaktiv.css"]
+	# CSS wird jetzt via Hugo Pipes mit Fingerprinting eingebunden (siehe layouts/partials/head.html)
 
 	image_404 = "img/404-bg.jpg"
 	omit_categories = true
@@ -62,7 +62,12 @@ home = ["HTML", "RSS"]
 	[[params.additional_menus]]
 	title = "Dokumente"
 	href = "/dokumente"
+	
+	[[params.additional_menus]]
+	title = "Hofboschhütte"
+	href = "/hofboschhuette"
 
+	
 	[[params.additional_menus]]
 	title = "Impressum"
 	href = "/impressum"
