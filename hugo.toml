@@ -68,11 +68,6 @@ home = ["HTML", "RSS"]
 	href = "/dokumente"
 	
 	[[params.additional_menus]]
-	title = "Hofboschhütte"
-	href = "/hofboschhuette"
-
-	
-	[[params.additional_menus]]
 	title = "Impressum"
 	href = "/impressum"
 
