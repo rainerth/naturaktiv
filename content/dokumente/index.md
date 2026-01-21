@@ -37,7 +37,9 @@ Hier findest du wichtige Dokumente rund um den Verein NaturAktiv Bösingen e.V.
       </div>
     </div>
   </div>
+ </div> 
 
+<div class="row" style="margin-top: 30px;">
   <div class="col-md-6">
     <div class="panel panel-default">
       <div class="panel-body">
@@ -50,31 +52,31 @@ Hier findest du wichtige Dokumente rund um den Verein NaturAktiv Bösingen e.V.
       </div>
     </div>
   </div>
+
+  <div class="col-md-6">
+    <div class="panel panel-default">
+      <div class="panel-body">
+          <h4><i class="fa fa-euro"></i> Beiträge</h4>
+        <p>Übersicht der aktuellen Mitgliedsbeiträge</p>
+        <a href="/documents/beitraege.pdf" class="btn" style="background-color: #2c5530; color: white;" download>
+          <i class="fa fa-download"></i> PDF herunterladen
+        </a>
+        <small class="text-muted"><br>Aktuelle Beitragssätze</small>
+        </div>
+    </div>
+  </div>
 </div>
 
 <div class="row" style="margin-top: 20px;">
   <div class="col-md-6">
     <div class="panel panel-default">
       <div class="panel-body">
-        <h4><i class="fa fa-shield"></i> Datenschutzordnung</h4>
+      <h4><i class="fa fa-shield"></i> Datenschutzordnung</h4>
         <p>Informationen zum Datenschutz im Verein</p>
         <a href="/documents/Datenschutzordnung_2025.pdf" class="btn" style="background-color: #2c5530; color: white;" download>
           <i class="fa fa-download"></i> PDF herunterladen
         </a>
         <small class="text-muted"><br>Stand: 2025</small>
-      </div>
-    </div>
-  </div>
-
-  <div class="col-md-6">
-    <div class="panel panel-default">
-      <div class="panel-body">
-        <h4><i class="fa fa-euro"></i> Beiträge</h4>
-        <p>Übersicht der aktuellen Mitgliedsbeiträge</p>
-        <a href="/documents/beitraege.pdf" class="btn" style="background-color: #2c5530; color: white;" download>
-          <i class="fa fa-download"></i> PDF herunterladen
-        </a>
-        <small class="text-muted"><br>Aktuelle Beitragssätze</small>
       </div>
     </div>
   </div>
