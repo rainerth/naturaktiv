@@ -52,12 +52,16 @@ home = ["HTML", "RSS"]
 	termine_days_back = 4
 
 	[[params.additional_menus]]
-	title = "Neuigkeiten"
-	href = "/neuigkeiten"
-
-	[[params.additional_menus]]
 	title = "Termine"
 	href = "/termine"
+
+	[[params.additional_menus]]
+	title = "Rückblick"
+	href = "/rueckblick"
+
+	[[params.additional_menus]]
+	title = "Hofboschhütte"
+	href = "/hofboschhuette"
 
 	[[params.additional_menus]]
 	title = "Dokumente"
