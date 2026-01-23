@@ -4,4 +4,4 @@ date: 2025-01-22
 draft: false
 ---
 
-Hier finden Sie unsere aktuellen Veranstaltungen und Termine.
+Bei <a href="/dokumente/">Dokumente</a> gibt es den Wanderplan auch zum Download.
