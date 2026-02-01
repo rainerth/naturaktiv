@@ -1,8 +1,8 @@
 ---
-title: "M�dels-Berg-Wochenende Schweiz"
+title: "Mädels-Berg-Wochenende Schweiz"
 date: 2026-07-17
 draft: false
-tags: ["Wanderung", "mehrt�gig", "Frauen"]
+tags: ["Wanderung", "mehrtägig", "Frauen"]
 location: "Schweiz"
 enddate: 2026-07-19
 ---

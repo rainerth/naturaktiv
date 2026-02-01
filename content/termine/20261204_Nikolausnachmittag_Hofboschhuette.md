@@ -1,9 +1,9 @@
 ---
-title: "Nikolausnachmittag an der Hofboschh�tte"
+title: "Nikolausnachmittag an der Hofboschhütte"
 date: 2026-12-04
 draft: false
 tags: ["Feier", "Nikolaus"]
-location: "Hofboschh�tte"
+location: "Hofboschhütte"
 enddate: 2026-12-04
 ---
 Leitung: Familienteam

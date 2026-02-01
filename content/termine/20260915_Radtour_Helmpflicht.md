@@ -6,3 +6,4 @@ tags: ["Radtour"]
 location: ""
 enddate: 2026-09-15
 ---
+Es besteht Helmpflicht.

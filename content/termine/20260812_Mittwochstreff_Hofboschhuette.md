@@ -1,9 +1,9 @@
 ---
-title: "Mittwochstreff an der Hofboschh�tte"
+title: "Mittwochstreff an der Hofboschhütte"
 date: 2026-08-12
 draft: false
 tags: ["Treffen"]
-location: "Hofboschh�tte"
+location: "Hofboschhütte"
 enddate: 2026-08-12
 ---
 Leitung: Vorstandschaft

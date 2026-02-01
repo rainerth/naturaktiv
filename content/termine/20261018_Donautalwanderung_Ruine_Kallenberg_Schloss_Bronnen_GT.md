@@ -1,5 +1,5 @@
 ---
-title: "Donautalwanderung Ruine Kallenberg-Schlo� Bronnen (GT)"
+title: "Donautalwanderung Ruine Kallenberg - Schloss Bronnen (GT)"
 date: 2026-10-18
 draft: false
 tags: ["Wanderung", "ganztags"]

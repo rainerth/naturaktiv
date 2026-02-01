@@ -1,5 +1,5 @@
 ---
-title: "�berraschungswanderung (HT)"
+title: "Überraschungswanderung (HT)"
 date: 2026-09-13
 draft: false
 tags: ["Wanderung", "halbtags"]

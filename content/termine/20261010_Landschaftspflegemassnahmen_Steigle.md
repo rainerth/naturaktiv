@@ -1,5 +1,5 @@
 ---
-title: "Landschaftspflegema�nahmen Steigle"
+title: "Landschaftspflegemaßnahmen Steigle"
 date: 2026-10-10
 draft: false
 tags: ["Umwelt", "Pflege"]
