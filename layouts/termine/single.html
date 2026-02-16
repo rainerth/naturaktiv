@@ -7,13 +7,15 @@
                 <div style="border-left: 4px solid #2c5530; padding-left: 15px; margin-bottom: 20px;">
                     <h1>{{ .Title }}</h1>
                     <p class="text-muted">
-                        <i class="fa fa-calendar"></i> {{ .Date.Format "02.01.2006, 15:04" }} Uhr
+                        <i class="fa fa-calendar"></i> {{ .Date.Format "02.01.2006" }}
+                        {{ $time := .Date.Format "15:04" }}
+                        {{ if ne $time "00:00" }} {{ $time }} Uhr{{ end }}
                         {{ with .Params.location }}
                         <br><i class="fa fa-map-marker"></i> {{ . }}
                         {{ end }}
                     </p>
                 </div>
-                
+
                 {{ if .Params.tags }}
                 <div style="margin: 20px 0;">
                     {{ range .Params.tags }}
@@ -21,13 +23,13 @@
                     {{ end }}
                 </div>
                 {{ end }}
-                
+
                 {{ .Content }}
-                
+
                 <hr>
                 <p><a href="/termine/">← Zurück zu den Terminen</a></p>
             </div>
-            
+
             {{ partial "sidebar.html" . }}
         </div>
     </div>
