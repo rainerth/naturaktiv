@@ -1,6 +1,6 @@
 ---
 title: "Wanderreise Thüringer Wald"
-date: 2026-06-23T
+date: 2026-06-23
 draft: false
 tags: ["Wanderung", "Reise", "Natur"]
 location: "Thüringer Wald"
