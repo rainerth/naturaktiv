@@ -24,7 +24,7 @@ Die Vorstandschaft
 
 Die Vorstandschaft lädt alle Mitglieder ganz herzlich am Samstag den 21.02.2026 in das Dorfgasthaus Sonne in Bösingen ab 19:45 Uhr dazu ein.
 
-Wir beginnen mit einem gemeinsamen Vesper um 18:00 Uhr. Dafür bitten wir um Anmeldung bei Hans-Willi Kraft (kraft.hw.rose.@gmail.com oder Whats-App 01712852175).
+Wir beginnen mit einem gemeinsamen Vesper um 18:00 Uhr. Dafür bitten wir um Anmeldung bei Hans-Willi Kraft (kraft.hw.rose@gmail.com oder Whats-App 01712852175).
 
 Tagesordnungspunkte:
 1. Begrüßung
