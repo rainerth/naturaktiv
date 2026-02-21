@@ -67,7 +67,7 @@ Hier findest du wichtige Dokumente rund um den Verein NaturAktiv Bösingen e.V.
   </div>
 </div>
 
-<div class="row" style="margin-top: 20px;">
+<div class="row" style="margin-top: 30px;">
   <div class="col-md-6">
     <div class="panel panel-default">
       <div class="panel-body">
@@ -78,6 +78,47 @@ Hier findest du wichtige Dokumente rund um den Verein NaturAktiv Bösingen e.V.
         </a>
         <small class="text-muted"><br>Stand: 2025</small>
       </div>
+    </div>
+  </div>
+
+  <div class="col-md-6">
+    <div class="panel panel-default">
+      <div class="panel-body">
+          <h4><i class="fa fa-euro"></i>Logo ohne Text</h4>
+        <p>Naturaktiv-Logo ohne Text</p>
+        <a href="/img/Logo_ohne_Text.png" class="btn" style="background-color: #2c5530; color: white;" download>
+          <i class="fa fa-download"></i> PNG herunterladen
+        </a>
+        <small class="text-muted"><br>Stand: 21.02.2026</small>
+        </div>
+    </div>
+  </div>
+</div>
+
+<div class="row" style="margin-top: 30px;">
+  <div class="col-md-6">
+    <div class="panel panel-default">
+      <div class="panel-body">
+      <h4><i class="fa fa-shield"></i> Logo mit Text innen</h4>
+        <p>NaturAktiv-Logo mit innenliegendem Text "NaturAktiv Bösingen"</p>
+        <a href="/img/Logo_Text_innen.png" class="btn" style="background-color: #2c5530; color: white;" download>
+          <i class="fa fa-download"></i> PNG herunterladen
+        </a>
+        <small class="text-muted"><br>Stand: 21.02.2026</small>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-md-6">
+    <div class="panel panel-default">
+      <div class="panel-body">
+          <h4><i class="fa fa-euro"></i>Logo mit Text rechts</h4>
+        <p>NaturAktiv-Logo mit Text "NaturAktiv Bösingen e.V." rechts davon</p>
+        <a href="/img/Logo_Text_rechts.png" class="btn" style="background-color: #2c5530; color: white;" download>
+          <i class="fa fa-download"></i> PNG herunterladen
+        </a>
+        <small class="text-muted"><br>Stand: 21.02.2026</small>
+        </div>
     </div>
   </div>
 </div>
