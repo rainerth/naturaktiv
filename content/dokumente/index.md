@@ -84,16 +84,18 @@ Hier findest du wichtige Dokumente rund um den Verein NaturAktiv Bösingen e.V.
   <div class="col-md-6">
     <div class="panel panel-default">
       <div class="panel-body">
-          <h4><i class="fa fa-euro"></i>Logo ohne Text</h4>
-        <p>Naturaktiv-Logo ohne Text</p>
-        <a href="/img/Logo_ohne_Text.png" class="btn" style="background-color: #2c5530; color: white;" download>
-          <i class="fa fa-download"></i> PNG herunterladen
+          <h4><i class="fa fa-euro"></i>Abrechnungsformular für Wanderungen</h4>
+        <p>Abrechnungsformular für Wanderführer/innen für Kilometer-Geld und Aufwandsentschädigungen</p>
+        <a href="/documents/Abrechnungsformular_Wanderungen.pdf" class="btn" style="background-color: #2c5530; color: white;" download>
+          <i class="fa fa-download"></i> PDF herunterladen
         </a>
-        <small class="text-muted"><br>Stand: 21.02.2026</small>
+        <small class="text-muted"><br>Aktuelles Abrechnungsformular</small>
         </div>
     </div>
   </div>
-</div>
+</div>  
+
+## Grafiken zum Download
 
 <div class="row" style="margin-top: 30px;">
   <div class="col-md-6">
@@ -115,6 +117,21 @@ Hier findest du wichtige Dokumente rund um den Verein NaturAktiv Bösingen e.V.
           <h4><i class="fa fa-euro"></i>Logo mit Text rechts</h4>
         <p>NaturAktiv-Logo mit Text "NaturAktiv Bösingen e.V." rechts davon</p>
         <a href="/img/Logo_Text_rechts.png" class="btn" style="background-color: #2c5530; color: white;" download>
+          <i class="fa fa-download"></i> PNG herunterladen
+        </a>
+        <small class="text-muted"><br>Stand: 21.02.2026</small>
+        </div>
+    </div>
+  </div>
+</div>
+
+<div class="row" style="margin-top: 30px;">
+  <div class="col-md-6">
+    <div class="panel panel-default">
+      <div class="panel-body">
+          <h4><i class="fa fa-euro"></i>Logo ohne Text</h4>
+        <p>NaturAktiv-Logo ohne Text</p>
+        <a href="/img/Logo_ohne_Text.png" class="btn" style="background-color: #2c5530; color: white;" download>
           <i class="fa fa-download"></i> PNG herunterladen
         </a>
         <small class="text-muted"><br>Stand: 21.02.2026</small>
