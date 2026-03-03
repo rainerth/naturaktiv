@@ -19,22 +19,30 @@ Nachdem sich Hans-Willi Kraft bei Bürgermeister und Gemeindeverwaltung für die
 
 Bei den Wahlen für den Ausschuss des Vereins wurden alle Posten besetzt. Ein Höhepunkt der Versammlung waren anschließend die Ehrungen; es wurden 21 Personen für langjährige Mitgliedschaft und herausragende Leistungen im Vereinsleben ausgezeichnet. 
 
-Hier kann das Protokoll der Mitgliederversammlung heruntergeladen werden:
+---
+
+Hier kann das Protokoll zur Mitgliederversammlung heruntergeladen werden:
 <a href="/documents/20260221_mitgliederversammlung_Protokoll.pdf" class="btn" style="background-color: #2c5530; color: white;" download>
           <i class="fa fa-download"></i> PDF herunterladen
         </a>
 
+---
+
+Geehrt für 10 Jahre Mitgliedschaft:
 <img src="/img/20260221_mitgliederversammlung_10_Jahre.JPG" height="450" width="800">
-Geehrt für 10 Jahre Mitgliedschaft
 
+
+Geehrt für 15 Jahre Mitgliedschaft:
 <img src="/img/20260221_mitgliederversammlung_15_Jahre.JPG" height="450" width="800">
-Geehrt für 15 Jahre Mitgliedschaft
 
+
+Geehrt für 25 Jahre Mitgliedschaft:
 <img src="/img/20260221_mitgliederversammlung_25_Jahre.JPG" height="450" width="800">
-Geehrt für 25 Jahre Mitgliedschaft
 
+
+Die neuen Ehrenmitglieder:
 <img src="/img/20260221_mitgliederversammlung_Ehrenmitglieder.JPG" height="450" width="800">
-Die neuen Ehrenmitglieder
 
+
+Vorstandschaft und Ausschuss:
 <img src="/img/20260221_mitgliederversammlung_Ausschuss.JPG" height="450" width="800">
-Vorstandschaft und Ausschuss
