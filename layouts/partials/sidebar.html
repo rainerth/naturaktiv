@@ -35,8 +35,10 @@
         <h5><a href="/termine/">TERMINE</a></h5>
         <ul class="list-unstyled">
             {{ if .IsHome }}
-            {{/* Homepage: Alle Termine ohne Zeitfilterung */}}
-            {{ $events := where site.RegularPages "Section" "termine" }}
+            {{/* Homepage: Grenzdatum berechnen - 1 Tag zurück ab Build-Zeit */}}
+            {{ $cutoff := now.AddDate 0 0 -1 }}
+            {{/* Termine ab Cutoff filtern */}}
+            {{ $events := where (where site.RegularPages "Section" "termine") "Date" "ge" $cutoff }}
             {{/* Sortieren nach Datum aufsteigend und erste 3 nehmen */}}
             {{ range first 3 (sort $events "Date" "asc") }}
             <li style="margin-bottom: 10px;">
@@ -48,8 +50,8 @@
             </li>
             {{ end }}
             {{ else }}
-            {{/* Andere Seiten: Grenzdatum berechnen - 4 Tage zurück ab Build-Zeit */}}
-            {{ $cutoff := now.AddDate 0 0 -4 }}
+            {{/* Andere Seiten: Grenzdatum berechnen - 1 Tag zurück ab Build-Zeit */}}
+            {{ $cutoff := now.AddDate 0 0 -1 }}
             {{/* Termine ab Cutoff filtern */}}
             {{ $events := where (where site.RegularPages "Section" "termine") "Date" "ge" $cutoff }}
             {{/* Sortieren nach Datum aufsteigend und erste 3 nehmen */}}
