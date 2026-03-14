@@ -9,6 +9,7 @@ enddate: 2026-03-29T23:59:59
 ## Wanderung auf der Schwäbischen Alb zu den Salmendinger Wasserfällen sowie auf den Kornbühl
 
 Am Sonntag, dem 29. März 2026 führt der Verein NaturAktiv Bösingen e.V. unter der Leitung des Wanderführerehepaars Friedrich und Brigitte Alperstedt eine schöne und kurzweilige Frühjahrswanderung auf der Schwäbischen Alb durch.
+
 Die Wanderung verläuft zunächst von Salmendingen zu den temporären und eindrucksvollen Wasserfällen, eine Besonderheit auf der Schwäbischen Alb. Alsdann geht es über Wald- und Wege über Wiesen überwiegend auf geschottertem Untergrund zum Kornbühl, einem Zeugenberg mit der bekannten Salmendinger Kapelle, von welcher man einen fantastischen 360°-Rundumblick genießen kann, bei klarem Wetter sogar bis in die Schweizer Alpen.
 
 Die ca. 9 km lange Strecke weist ca. 250 hm auf. Dennoch werden gutes Schuhwerk und Wanderstöcke empfohlen. 
