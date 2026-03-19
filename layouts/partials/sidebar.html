@@ -5,7 +5,7 @@
     <section class="visible-md visible-lg">
         <div class="short-about">
             {{ with .Site.Params.sidebar_avatar }}
-            <a href="{{ " /" | relLangURL }}">
+            <a href="{{ "/" | relLangURL }}">
                 <img src="{{ . | relURL }}" alt="avatar" style="cursor: pointer" />
             </a>
             {{ end }}
@@ -93,7 +93,7 @@
             {{ $featured_condition_size := .Site.Params.featured_condition_size }}
             {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
             {{ if gt (len $taxonomy.Pages) $featured_condition_size }}
-            <a href="{{ " /tags/" | relLangURL }}{{ $name | urlize }}" title="{{ $name }}">
+            <a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}" title="{{ $name }}">
                 {{ $name }}
             </a>
             {{ end }}
