@@ -20,4 +20,11 @@ Die Vorstandschaft
 
 ---
 
+# Aktuelles:
+
+Bei der Waldputzete sind zwei Paar Handschuhe liegen geblieben.
+Die Besitzer dürfen sich gerne unter 01590 2244556 melden.
+
+---
+
 *„Nichts bringt uns auf unserem Weg besser voran als eine Pause.“ --- Elizabeth Barrett Browning*
