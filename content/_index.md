@@ -22,7 +22,9 @@ Die Vorstandschaft
 
 # Aktuelles:
 
-Bei der Waldputzete sind zwei Paar Handschuhe liegen geblieben.
+Die Gemeinde Bösingen lädt alle Ehrenamtlichen zu einem <a href="https://www.boesingen.de/mitteilung/Einladung-zum-Ehrenamtsabend-am-08-Mai-2026-article4235">Ehrenamtsabend</a> am 8. Mai ein.
+
+Bei der Waldputzete ist ein Paar Handschuhe liegen geblieben.
 Die Besitzer dürfen sich gerne unter 01590 2244556 melden.
 
 ---
