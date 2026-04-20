@@ -9,4 +9,8 @@ recurring: true
 
 Unser traditionelles Maifest an der Hofboschhütte - ein Fest für die ganze Familie zum Start in den Wonnemonat Mai!
 
-<video src="img/Maifest_2026.mp4" type="video/mp4“ width="300" height="711" controls autoplay loop></video>
+<video src="/img/Maifest_2026.mp4" width="400" height="711" autobuffer autoplay controls>
+
+<div>Leider kann Ihr Browser dieses Video nicht abspielen.</div>
+
+</video>
