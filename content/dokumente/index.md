@@ -84,7 +84,7 @@ Hier findest du wichtige Dokumente rund um den Verein NaturAktiv Bösingen e.V.
   <div class="col-md-6">
     <div class="panel panel-default">
       <div class="panel-body">
-          <h4><i class="fa fa-euro"></i>Abrechnungsformular für Wanderungen</h4>
+          <h4><i class="fa fa-euro"></i> Abrechnungsformular für Wanderungen</h4>
         <p>Ausfüllen und an kasse@naturaktiv-boesingen.de schicken.</p>
         <a href="/documents/Abrechnungsformular_Wanderungen.pdf" class="btn" style="background-color: #2c5530; color: white;" download>
           <i class="fa fa-download"></i> PDF herunterladen
@@ -94,6 +94,21 @@ Hier findest du wichtige Dokumente rund um den Verein NaturAktiv Bösingen e.V.
     </div>
   </div>
 </div>  
+
+<div class="row" style="margin-top: 30px;">
+  <div class="col-md-6">
+    <div class="panel panel-default">
+      <div class="panel-body">
+      <h4><i class="fa fa-shield"></i> Teilnehmerliste</h4>
+        <p>Für Wanderführer zum Ausdrucken und Ausfüllen lassen</p>
+        <a href="/documents/Teilnehmerliste.pdf" class="btn" style="background-color: #2c5530; color: white;" download>
+          <i class="fa fa-download"></i> PDF herunterladen
+        </a>
+        <small class="text-muted"><br>Stand: 2026</small>
+      </div>
+    </div>
+  </div>
+</div>
 
 ## Grafiken zum Download
 
