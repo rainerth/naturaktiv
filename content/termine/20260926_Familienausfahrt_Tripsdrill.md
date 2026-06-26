@@ -6,4 +6,4 @@ tags: ["Ausflug", "Familie"]
 location: "Tripsdrill"
 enddate: 2026-09-26
 ---
-Leitung: Hans-Willi Kraft
+<img src="/img/20260926_Familienausfahrt_Tripsdrill.jpeg" height="800" width="540">
