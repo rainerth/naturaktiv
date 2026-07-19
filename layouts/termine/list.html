@@ -19,7 +19,7 @@
                 <div style="margin-bottom: 30px; border-left: 4px solid #2c5530; padding-left: 15px;">
                     <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
                     <p class="text-muted">
-                        <i class="fa fa-calendar"></i> {{ .Date.Format "02.01.2006" }}
+                        <i class="fa fa-calendar"></i> {{ .Date.Format "Monday, 02.01.2006" }}
                         {{ $time := .Date.Format "15:04" }}
                         {{ if ne $time "00:00" }} {{ $time }} Uhr{{ end }}
                         {{ with .Params.location }}
