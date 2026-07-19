@@ -99,6 +99,34 @@ Hier findest du wichtige Dokumente rund um den Verein NaturAktiv Bösingen e.V.
   <div class="col-md-6">
     <div class="panel panel-default">
       <div class="panel-body">
+      <h4><i class="fa fa-shield"></i> Hüttenordnung</h4>
+        <p>Hütten- und Platzordnung für die Hofboschhütte</p>
+        <a href="/documents/Hofbosch-Hüttenordnung.pdf" class="btn" style="background-color: #2c5530; color: white;" download>
+          <i class="fa fa-download"></i> PDF herunterladen
+        </a>
+        <small class="text-muted"><br>Stand: 2026</small>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-md-6">
+    <div class="panel panel-default">
+      <div class="panel-body">
+          <h4><i class="fa fa-euro"></i> Regeln für Fahrradausfahrten</h4>
+        <p>Unsere Regeln für die Fahrradausfahrten</p>
+        <a href="/documents/Regeln_Fahrradausfahrten.pdf" class="btn" style="background-color: #2c5530; color: white;" download>
+          <i class="fa fa-download"></i> PDF herunterladen
+        </a>
+        <small class="text-muted"><br>Stand: 2026</small>
+        </div>
+    </div>
+  </div>
+</div>  
+
+<div class="row" style="margin-top: 30px;">
+  <div class="col-md-6">
+    <div class="panel panel-default">
+      <div class="panel-body">
       <h4><i class="fa fa-shield"></i> Teilnehmerliste</h4>
         <p>Für Wanderführer zum Ausdrucken und Ausfüllen lassen</p>
         <a href="/documents/Teilnehmerliste.pdf" class="btn" style="background-color: #2c5530; color: white;" download>

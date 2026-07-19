@@ -13,7 +13,9 @@ Die Hofboschhütte ist das Vereinsheim von NaturAktiv Bösingen. Sie liegt idyll
 
 Anfragen zur Hüttenvermietung können bei Hans-Willi Kraft per E-Mail (huette@naturaktiv-boesingen.de) oder per Telefon (01712852175) gestellt werden.
 
-Prüfen Sie bitte vor Ihrer Anfrage die Verfügbarkeit im Kalender:
+Lesen Sie sich bitte vor Ihrer Anfrage sorgfältig die <b><a href="/documents/Hofbosch-Hüttenordnung.pdf">Hüttenordnung</a></b> durch und prüfen Sie die Verfügbarkeit im Kalender.
+
+Von November bis April befindet sich die Hütte in der <b>Winterpause</b>. Dann sind auch der Spielplatz und die Waldmurmelbahn abgebaut.
 
 <div style="width: 100%; max-width: 1000px; margin: 0 auto;">
     <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;ctz=Europe%2FBerlin&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;title=Hofboschh%C3%BCtte&amp;src=ZWI5NjM5YTEyYWRkMzU1ODcxODg3ZDI5NmI2ZDA5NDExZjJmYTlmYjhjZTJjMWVkYWUwM2FiNmQxMTQ0NGRlM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23E67C73" 
