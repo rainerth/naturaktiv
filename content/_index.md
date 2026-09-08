@@ -29,7 +29,7 @@ Die Besitzer dürfen sich gerne unter 01590 2244556 melden.
 
 ## Bewirtung der Hofboschhütte:
 
-Zusätzlich zu den Mittwochstreffs wird die Hofboschhütte an verschiedenen Sonntagen durch die Natur- und Wanderfreunde aus Epfendendorf bewirtet. Die genauen Termine findet Ihr auf ihrer Homepage: <a href"https://naturundwanderfreunde-epfendorf.de">www.naturundwanderfreunde-epfendorf.de</a>.
+Zusätzlich zu den Mittwochstreffs wird die Hofboschhütte an verschiedenen Sonntagen durch die Natur- und Wanderfreunde aus Epfendendorf bewirtet. Die genauen Termine findet Ihr auf ihrer Homepage: <a href="https://naturundwanderfreunde-epfendorf.de">www.naturundwanderfreunde-epfendorf.de</a>.
 
 ---
 
