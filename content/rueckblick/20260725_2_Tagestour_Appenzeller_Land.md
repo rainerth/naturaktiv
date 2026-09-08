@@ -13,3 +13,19 @@ Treffpunkt 7:30 Uhr an der Bushaltestelle Wilder Mann, Abfahrt mit mehreren Buss
 
 <b>Tag 2: Abstieg & Heimkehr 15 km (Sonntag, 26.07.2026)</b>
 Gemeinsames Frühstück auf der Berghöhe mit einmaliger Rundumsicht. Nach dem Frühstück traten wir den angenehmen und landschaftlich reizvollen Abstieg an. Der abwechslungsreiche Weg führte uns hinunter durch die idyllische Hügel- und Kulturlandschaft , vorbei am wildromantischen Stößenbach-Tobel und dem malerischen Glübsee, bis wir schließlich unseren Zielort Herisau erreichten. Anschließen Heimfahrt und traditionelle Abschlusseinkehr und gemütlicher Tourausklang im Gasthaus Sonne in Bösingen.
+
+<img src="/img/20260725_Appenzeller_Land_00.jpeg" height="450" width="950">
+
+<img src="/img/20260725_Appenzeller_Land_01.webp" height="687" width="913">
+
+<img src="/img/20260725_Appenzeller_Land_02.webp" height="1213" width="913">
+
+<img src="/img/20260725_Appenzeller_Land_03.webp" height="687" width="913">
+
+<img src="/img/20260725_Appenzeller_Land_04.webp" height="687" width="913">
+
+<img src="/img/20260725_Appenzeller_Land_05.webp" height="1213" width="913">
+
+<img src="/img/20260725_Appenzeller_Land_06.webp" height="1213" width="913">
+
+<img src="/img/20260725_Appenzeller_Land_07.webp" height="687" width="913">
