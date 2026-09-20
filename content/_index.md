@@ -18,12 +18,6 @@ Mit herzlichem Wandergruß
 
 Die Vorstandschaft
 
----
-
-## Aktuelles:
-
-Bei der Waldputzete ist ein Paar Kinderhandschuhe liegen geblieben.
-Die Besitzer dürfen sich gerne unter 01590 2244556 melden.
 
 ---
 

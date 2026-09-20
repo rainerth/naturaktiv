@@ -6,5 +6,4 @@ tags: ["Maifest", "Hofboschhütte", "Tradition", "Familie"]
 location: "Hofboschhütte, Bösingen"
 recurring: true
 ---
-
 Zu unserem traditionellen Maifest an der Hofboschhütte durften wir bei schönstem Wetter viele Gäste begrüßen. Vielen Dank an alle Helfer, die zum Gelingen des Festes beigetragen haben.

@@ -6,6 +6,5 @@ tags: ["Treffen"]
 location: "Hofboschhütte"
 enddate: 2026-08-12
 ---
-Wir laden Euch herzlich zum Mittwochstreff an der Hofboschhütte ein! 
-Beginn ist um 14:30 Uhr.
-Verbringt mit uns ein paar gemütliche Stunden bei Speis und Trank.
+Wir danken allen, die zum Gelingen dieses Mittwochstreffs beigetragen haben.
+Und natürlich bedanken wir uns bei allen Gästen, die mit uns gemütliche Stunden bei Speis und Trank an der Hofboschhütte verbracht haben.

@@ -6,4 +6,4 @@ tags: ["Wanderung", "halbtags", "Familie"]
 location: ""
 enddate: 2026-06-28
 ---
-Wegen einer Hitzewarnung müssen wir diese Wanderung leider absagen.
+Wegen einer Hitzewarnung mussten wir diese Wanderung leider absagen.

@@ -6,12 +6,7 @@ tags: ["Wanderung", "ganztags"]
 location: "Seibleseck-Wildsee Darmstädter Hütte"
 enddate: 2026-09-06
 ---
-Der Verein NaturAktiv Bösingen e.V. unternimmt am Sonntag den 06. September 2026 eine Wanderung im Nordschwarzwald. Die Wanderung startet am Parkplatz Seibelseckle und führt links am Skilift vorbei Richtung Schlappdachhütte. Nach einer kurzen Pause geht es weiter über schmale Pfade und breiteren Wegen bis zum Wildsee. Dort ist die Mittagsrast geplant. Weiter geht es für die sportlichen Wanderer über das Wildseewegle bis zur Darmstädter Hütte. Alle anderen gehen mit dem zweiten Wanderführer einen leichteren Weg bis zur Darmstädter Hütte, wo Kaffee getrunken werden kann. Auf dem Rückweg eröffnen sich dem Wanderer herrliche Aussichtspunkte. 
-Die Strecke wird mit rund 12 km und 300 Höhenmeter angegeben. Die reine Gehzeit beträgt circa 3,5 bis 4 Stunden. Wanderstöcke und ein Rucksackvesper werden empfohlen Eine Schlusseinkehr ist vorgesehen. 
-Anmeldungen sind bei den Wanderführern Anton und Evelyn Sauter, Telefon: 07423 / 1071 oder anton_und_evi@web.de bis Freitag, den 04. September 2026, 18.00 Uhr erforderlich.
-Gäste sind wie immer herzlich willkommen.
-Treffpunkte:		
-    8.45 Uhr	Bösingen, Haslenstraße – gegenüber dem Wilden Mann
-    9.00 Uhr	Bushaltestelle Ringstraße Oberndorf
-Die Fahrt erfolgt mit Kleinbussen und gegebenenfalls mit Privat-PKWs.
+Der Verein NaturAktiv Bösingen e.V. unternahm am Sonntag den 06. September 2026 eine Wanderung im Nordschwarzwald. 
+Die Wanderung startete am Parkplatz Seibelseckle und führte links am Skilift vorbei Richtung Schlappdachhütte. Nach einer kurzen Pause ging es weiter über schmale Pfade und breitere Wege bis zum Wildsee. Dort fand die Mittagsrast statt. Weiter ging es für die sportlichen Wanderer über das Wildseewegle bis zur Darmstädter Hütte. Alle anderen gingen mit dem zweiten Wanderführer einen leichteren Weg bis zur Darmstädter Hütte, wo Kaffee getrunken werden konnte. Auf dem Rückweg eröffneten sich dem Wanderer herrliche Aussichtspunkte. Abgschlossen wurde die Wanderung mit einer Schlusseinkehr.
+Wir bedanken uns bei den Wanderführern Anton und Evelyn Sauter für die schöne Wanderung.
 
