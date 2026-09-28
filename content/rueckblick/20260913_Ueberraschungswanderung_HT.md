@@ -10,3 +10,6 @@ Wir trafen uns in Bösingen auf dem Parkplatz Dorfmitte und fuhren nach Bubsheim
 
 <img src="/img/2026-09-23_Bubsheim_01.jpeg" height="1067" width="800">
 <img src="/img/2026-09-23_Bubsheim_02.jpeg" height="1067" width="800">
+<img src="/img/2026-09-23_Bubsheim_03.jpeg" height="1067" width="800">
+<img src="/img/2026-09-23_Bubsheim_04.jpeg" height="1067" width="800">
+<img src="/img/2026-09-23_Bubsheim_05.jpeg" height="1067" width="800">
